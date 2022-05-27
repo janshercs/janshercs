@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jansen</h1>
 <h3 align="center">A self-taught programmer from Singapore.</h3>
 
-- 🔭 I’m currently working on **Madets, a platform for home bakers to peddle their wares.**
+- 🔭 I’m currently working on **Revamping my Personal GH page.**
 
 - 🌱 I’m currently learning **React, NGINX.**
 
