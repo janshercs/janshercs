@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Revamping my Personal GH page.**
 
-- 🌱 I’m currently learning **React, NGINX.**
+- 🌱 I’m currently learning **Rust, Go.**
 
 - 👨‍💻 All of my projects are available at [janshercs.github.io](janshercs.github.io)
 
